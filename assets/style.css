@@ -24,17 +24,19 @@ footer p {
 .cartao {
     margin: 1rem 1rem;
     background-color: tomato;
-text-align: left;
-padding: 0.5rem;
-margin: 0.6rem;
-border-radius: 0.6rem;
-font-size: 1vw;
+    text-align: left;
+    padding: 0.5rem;
+    margin: 0.6rem;
+    border-radius: 0.6rem;
+    font-size: 1vw;
 }
 
-}.cartao {
+
+
+.cartao {
     margin: 1rem 1rem;
     background-color: aqua;
     height: 20rem;
-flex-grow: 1;
-flex-basis: calc(33% - 6rem);
-    }
+    flex-grow: 1;
+    flex-basis: calc(33% - 6rem);
+}
