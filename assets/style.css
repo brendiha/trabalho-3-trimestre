@@ -15,6 +15,7 @@ footer {
 
 footer p {
     text-align: center;
+    background-color: aquamarine;
     font-size: 0.6rem;
     margin-top: 0.5rem;
 }
