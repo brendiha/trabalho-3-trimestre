@@ -16,12 +16,17 @@ footer {
 footer p {
     text-align: center;
     background-color: aquamarine;
+    height: 100%;
     font-size: 0.6rem;
     margin-top: 0.5rem;
 }
 
 .cartao {
     margin: 1rem 1rem;
+    background-color: tomato;
+text-align: left;
+padding: 0.5rem;
+}
 
 }.cartao {
     margin: 1rem 1rem;
