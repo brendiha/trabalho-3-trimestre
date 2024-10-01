@@ -50,3 +50,7 @@ font-size: 1vw;
     color: var(--card-back-color);
     font-weight: 700;
 }
+.cartao__conteudo__pergunta p {
+    color: var(--text-color);
+    font-weight: 500;
+}
