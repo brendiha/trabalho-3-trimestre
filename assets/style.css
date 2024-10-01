@@ -58,6 +58,7 @@ font-size: 1vw;
 .cartao__conteudo__pergunta p {
     color: var(--text-color);
     font-weight: 500;
+    backface-visibility: hidden;
 }
 .cartao:hover .cartao__conteudo {
     transform: rotateY(180deg);
